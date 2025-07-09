@@ -34,7 +34,7 @@ Partnered with the American Battlefield Trust to uncover trends in Chrome OS stu
 
 ### Project Files
 
--  [Final Report](./ABT_Capstone_Report_Grzybowski.pdf)  
+-  [Final Report](./ABT_Capstone_Report_Grzybowski_Flattened.pdf) 
 -  [Presentation Slides](./ABT_Capstone_Presentation_Grzybowski.pdf)  
 -  [Reflection Essay](./ABT_Capstone_Reflection_Grzybowski.pdf)
 
