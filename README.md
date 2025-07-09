@@ -10,8 +10,8 @@ Welcome! This portfolio showcases my work in data analysis, visualization, and f
 Analyzed over a century of aircraft accident data to explore trends in fatalities, military vs. civilian operator risks, and the impact of global conflicts.  
 **Skills:** Data storytelling, visualization design, historical analysis, Tableau, data cleaning.
 
-📄 [Read Full Blog PDF](./VisUMD_Aviation_Safety/VisUMD_Blog_Grzy.pdf)  
-🖥 [Presentation Slides](./VisUMD_Aviation_Safety/Aviation_DataStory_Grzybowski.pdf)
+[Read Full Blog PDF](./VisUMD_Aviation_Safety/VisUMD_Blog_Grzy.pdf)  
+[Presentation Slides](./VisUMD_Aviation_Safety/Aviation_DataStory_Grzybowski.pdf)
 
 ---
 
