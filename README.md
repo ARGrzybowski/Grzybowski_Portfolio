@@ -20,7 +20,7 @@ Analyzed over a century of aircraft accident data to explore trends in fatalitie
 Analyzed city-level Google Chrome OS usage data to uncover how students interacted with the Trust’s educational resources during and after COVID-19. Produced strategic recommendations for outreach, school partnerships, and geographic targeting.  
 **Skills:** Geographic analysis, stakeholder reporting, dashboard design, Tableau, institutional research, team collaboration.
 
-[Capstone Report (PDF)](./ABT_Capstone_Report_Grzybowski_Flattened.pdf)  
+[Final Report](./ABT_Capstone_Report_Grzybowski_Flattened.pdf)
 [Presentation Slides](./ABT_ChromeOS_Analysis/ABT_Capstone_Presentation_Grzybowski.pdf)  
 [Reflection Statement](./ABT_ChromeOS_Analysis/ABT_Capstone_Reflection_Grzybowski.pdf)
 
