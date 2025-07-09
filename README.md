@@ -7,6 +7,7 @@ Welcome! This portfolio showcases my work in data analysis, visualization, and f
 ## Visualizing Aviation Safety
 
 [View Project Summary](./VisUMD_Aviation_Safety/summary.md)  
+
 Analyzed over a century of aircraft accident data to explore trends in fatalities, military vs. civilian operator risks, and the impact of global conflicts.  
 **Skills:** Data storytelling, visualization design, historical analysis, Tableau, data cleaning.
 
@@ -32,6 +33,7 @@ Analyzed city-level Google Chrome OS usage data to uncover how students interact
 ## Word Lord – Vocabulary Lookup Web App
 
 [View Project Summary](./WordLord_App/summary.md)  
+
 Full-stack dictionary tool using the Free Dictionary API. Users can search word definitions, parts of speech, and pronunciations, while saving search history with Supabase.  
 **Skills:** Node.js, Express.js, Supabase (PostgreSQL), HTML/CSS/JS, API integration, team collaboration.
 
