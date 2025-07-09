@@ -8,4 +8,5 @@ This project explores over a century of aircraft accident data, focusing on patt
 - Compared survival rates and operator trends across time
 - Interpreted wartime impacts on safety statistics
 
-📄 [Download full PDF](../VisUMD%20Blog_Grzy.pdf)
+📄[Download full PDF](./VisUMD_Blog_Grzy.pdf)
+
