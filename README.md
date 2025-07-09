@@ -16,9 +16,12 @@ Analyzed over a century of aircraft accident data to explore trends in fatalitie
 ---
 
 ## American Battlefield Trust – ChromeOS Engagement Analysis
-[View Project Summary](./ABT_ChromeOS_Analysis/summary.md) 
+
+[View Project Summary](./ABT_ChromeOS_Analysis/summary.md)  
+
 Analyzed city-level Google Chrome OS usage data to uncover how students interacted with the Trust’s educational resources during and after COVID-19. Produced strategic recommendations for outreach, school partnerships, and geographic targeting.  
 **Skills:** Geographic analysis, stakeholder reporting, dashboard design, Tableau, institutional research, team collaboration.
+
 
 [Final Report](./ABT_ChromeOS_Analysis/ABT_Capstone_Report_Grzybowski_Flattened.pdf)  
 [Presentation Slides](./ABT_ChromeOS_Analysis/ABT_Capstone_Presentation_Grzybowski.pdf)  
