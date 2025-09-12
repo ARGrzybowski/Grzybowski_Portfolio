@@ -42,6 +42,21 @@ Full-stack dictionary tool using the Free Dictionary API. Users can search word 
 
 ---
 
+---
+
+## Guardian-Ranker – Destiny 2 Stats & Leaderboards
+
+[View Project Summary](./GuardianRanker_App/summary.md)  
+
+Web application for Destiny 2 players to search player stats, compare them across leaderboards, and view global season information with a live countdown to weekly resets. Integrated with the Bungie API for real-time player and season data, with Supabase powering leaderboard management.  
+**Skills:** HTML/CSS/JS, Supabase, Bungie API, frontend design, API integration, full-stack development.  
+
+[Live Demo](https://argrzybowski.github.io/Guardian-Ranker/)  
+[Source Code](https://github.com/ARGrzybowski/Guardian-Ranker)  
+
+
+---
+
 ## About Me
 
 I'm a recent graduate from the University of Maryland with a concentration in Data Science and Cybersecurity. I’m passionate about using data to uncover insights and build user-focused tools. I'm actively seeking opportunities in data analytics, product analysis, or hybrid engineering roles that leverage both analytical and technical skills.
