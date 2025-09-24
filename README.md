@@ -1,6 +1,6 @@
 # Andrew Grzybowski – Data Portfolio
 
-Welcome! This portfolio showcases my work in data analysis, visualization, and full-stack application development. Each project below highlights a different skill set, from working with real-world datasets to deploying web applications with API integration.
+This portfolio showcases my work in data analysis, visualization, and full-stack application development. Each project below highlights a different skill set, from working with real-world datasets to deploying web applications with API integration.
 
 ---
 
