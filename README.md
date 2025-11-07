@@ -12,8 +12,8 @@ Analyzed over a century of aircraft accident data to explore trends in fatalitie
 **Skills:** Data storytelling, visualization design, historical analysis, Tableau, data cleaning.
 
 ### Project Files  
-[Full Blog PDF](./Grzybowski_Portfolio/VisUMD_Aviation_Safety/VisUMD%20Blog_Grzy.pdf)  
-[Presentation Slides](./Grzybowski_Portfolio/VisUMD_Aviation_Safety/Aviation_DataStory_Grzybowski.pdf)
+[Full Blog PDF](./VisUMD_Aviation_Safety/VisUMD%20Blog_Grzy.pdf)  
+[Presentation Slides](./VisUMD_Aviation_Safety/Aviation_DataStory_Grzybowski.pdf)
 
 
 
