@@ -8,7 +8,7 @@ This project explores over a century of aircraft accident data, focusing on patt
 - Compared survival rates and operator trends across time
 - Interpreted wartime impacts on safety statistics
 
- [Download full PDF](./VisUMD_Blog_Grzy.pdf)  
- [View Presentation Slides](./Aviation_DataStory_Grzybowski.pdf)
+[Full Blog PDF](./VisUMD_Aviation_Safety/VisUMD%20Blog_Grzy.pdf)  
+[Presentation Slides](./VisUMD_Aviation_Safety/Aviation_DataStory_Grzybowski.pdf)
 
 
